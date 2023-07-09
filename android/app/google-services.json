@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663038528134",
+    "project_id": "satsang-app-79207",
+    "storage_bucket": "satsang-app-79207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663038528134:android:b55e41180621b77e68df07",
+        "android_client_info": {
+          "package_name": "com.dibiyanas.satsang_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663038528134-mbhu3p0rs0quh8rttucm8e0ku7jietbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dibiyanas.satsang_app",
+            "certificate_hash": "131cde1dd610167e3e2740fe2a3f9f17db21478d"
+          }
+        },
+        {
+          "client_id": "663038528134-4bicrqkla78gdbrq4eaukpicosif1g1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3LSY7cw-HxcNxh4FgxzaU6w-CBs66eVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663038528134-4bicrqkla78gdbrq4eaukpicosif1g1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
